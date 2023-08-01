@@ -69,6 +69,6 @@ Based on Pearson's Correlation table, 0.84 is > 0.7, means there is a strong pos
 Relying on the regression analysis, it helped to determined how the average tumor volume influenced the weight of mice change. 
 The R-squared value is 0.70, which indicates that the model closely tracks the data, wich is fairly  good. 
 
-Source:
+### Source:
 
 https://courses.bootcampspot.com/courses/2799/assignments/42947?module_item_id=802914
